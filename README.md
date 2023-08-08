@@ -40,7 +40,7 @@ Movie List is a Django website that allows users to manage and view a list of mo
    python manage.py runserver
    
 
-5. Access the website in your browser at -- " "
+5. Access the website in your browser at -- "https://yourmovielist.pythonanywhere.com/"
    
 ## Usage
 
