@@ -51,8 +51,8 @@ Movie List is a Django website that allows users to manage and view a list of mo
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Home Page](https://raw.githubusercontent.com/The-Nomadic/Movie-List/master/media/gallery/movie-list.png)
+![Details Page](https://raw.githubusercontent.com/The-Nomadic/Movie-List/master/media/gallery/detail.png)
 
 
 ## Acknowledgments
